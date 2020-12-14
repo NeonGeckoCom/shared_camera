@@ -61,7 +61,6 @@ class Camera:
 
     def maybe_takeover(self):
         # naively keep trying to grab cam
-        # TODO avoid those damn logs
         self.open_camera()
 
     def open_camera(self):
