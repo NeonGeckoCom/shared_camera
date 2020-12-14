@@ -1,0 +1,4 @@
+imutils
+opencv_python
+imagezmq
+redis
