@@ -12,6 +12,5 @@ setup(
     install_requires=["imutils>=0.5.3",
                       "opencv_python>=4.4.0.46",
                       "imagezmq>=1.1.1"],
-    author_email='jarbasai@mailfence.com',
     description='inter process camera interface'
 )
